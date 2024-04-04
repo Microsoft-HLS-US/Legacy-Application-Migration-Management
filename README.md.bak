@@ -1,7 +1,7 @@
 # Legacy Application Migration Management
 Legacy Application Migration Management
  
- ## Description
+## Description
 
 Included is a starter solution that allows organizations to manage their legacy application migration status.
 
@@ -15,7 +15,7 @@ Included is a starter solution that allows organizations to manage their legacy 
 6. Within the Model Driven App, select the Dashboard on the left. 
 7. Click New from the toolbar, then PowerBI Dashboard.
 8. Select your PowerBI workspace and the Dashboard created in step 4. 
-9. Set PowerBI workspace as default. 
+9. Set PowerBI dashboard as default dashboard.
 
 ## Note
 The PowerBI report uses Import method and will require periodic refreshes to render recently added data. 
